@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://kxiong@ir.hit.edu.cn/'>E-mail</a> kxiong@ir.hit.edu.cn
+subtitle: <a href='http://kxiong@ir.hit.edu.cn/'>E-mail:</a> kxiong@ir.hit.edu.cn
 
 profile:
   align: right
