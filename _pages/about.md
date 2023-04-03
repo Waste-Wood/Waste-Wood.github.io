@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://ir.hit.edu.cn/'>Affiliations</a> SCIR, Harbin Institute of Technology, Harbin, China
-<a href='kxiong@ir.hit.edu.cn'>e-mail</a> kxiong@ir.hit.edu.cn
+subtitle: <a href='http://kxiong@ir.hit.edu.cn/'>E-mail</a> kxiong@ir.hit.edu.cn
 
 profile:
   align: right
