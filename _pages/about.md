@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://ir.hit.edu.cn/'>Affiliations</a>. Research Center for Social Computing and Information Rertrieval, Harbin Institute of Technology, Harbin, China
+subtitle: <a href='http://ir.hit.edu.cn/'>Affiliations</a>. SCIR, Harbin Institute of Technology, Harbin, China
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p></p>
     <p></p>
