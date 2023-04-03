@@ -7,7 +7,7 @@ subtitle: <a href='kxiong@ir.hit.edu.cn'>e-mail</a> kxiong@ir.hit.edu.cn
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: psyduck.jpeg
   image_circular: true # crops the image to make it circular
   address: >
     <p></p>
